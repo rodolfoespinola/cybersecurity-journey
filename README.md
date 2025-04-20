@@ -50,4 +50,8 @@ This repository documents my study and hands-on practice in cybersecurity, with 
 ---
 
 ## Contact
-Feel free to reach out or follow along with my journey: [rzespinola@gmail.com]
+Feel free to reach out or follow along with my journey:
+- [E-mail](rzespinola@gmail.com)
+- [LinkedIn](https://br.linkedin.com/in/rodolfo-zalzwedel-esp%C3%ADnola-14679a38)
+
+
