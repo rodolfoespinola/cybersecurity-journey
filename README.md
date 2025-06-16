@@ -28,7 +28,7 @@ This repository documents my study and hands-on practice in cybersecurity, with 
 
 ---
 
-## Weekly Progress
+## Progress
 
 ### Week 01 (April 20–26)
 - Set up study environment
@@ -37,8 +37,8 @@ This repository documents my study and hands-on practice in cybersecurity, with 
 - Practiced basic Linux commands: `ls`, `cd`, `mkdir`, `chmod`, `nano`
 - Created this repository
 
-### Week 02
-*(To be updated)*
+### Activities
+ - Changing file permissions using chmod command
 
 ---
 
